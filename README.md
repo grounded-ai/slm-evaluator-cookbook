@@ -33,9 +33,8 @@ Open the Jupyter Notebook of your choice. Each notebook provides detailed prompt
 
 ## Resources
 
-- **Documentation**: Comprehensive documentation and tutorials are available at [docs.groundedai.com](https://docs.groundedai.com).
+- **Documentation**: Keep up with our progress at https://groundedai.tech/
 - **Discord**: Join our [Discord server](https://discord.gg/38JnPNu44E) to engage with the GroundedAI community, get support, and stay updated on the latest developments.
-- **Twitter**: Follow us on [Twitter](https://twitter.com/groundedai) for announcements and updates.
 
 ## License
 
