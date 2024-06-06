@@ -18,22 +18,18 @@ To get started with GroundedAI's evaluation notebooks, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/GroundedAI/llm-evaluation-notebooks.git
+git clone https://github.com/grounded-ai/slm-evaluator-cookbook.git
 ```
 
 2. **Install dependencies**:
 
 ```bash
-pip install -r requirements.txt
+pip install transformers accelerate peft flash-attn
 ```
 
 3. **Explore the notebooks**:
 
-Navigate to the `notebooks/` directory and open the Jupyter Notebook of your choice. Each notebook provides detailed instructions and code examples for evaluating LLM applications using small language models.
-
-## Contributing
-
-We welcome contributions from the community! Whether you want to add new evaluation notebooks, improve existing ones, or contribute to our pretrained models, your contributions are valuable. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
+Open the Jupyter Notebook of your choice. Each notebook provides detailed prompt instructions and code examples for getting started evaluating LLM applications using small language models.
 
 ## Resources
 
